@@ -27,8 +27,8 @@
 |edge |边缘||
 |parentheses |括弧||
 |potential |潜在||
-||||
-||||
+|ambassador|大使||
+|coupon|优惠券||
 ||||
 ||||
 ||||
