@@ -67,7 +67,7 @@
 |preeemptive|超群绝伦的||
 |predominant|优越的||
 |future|将来||
-||||
+|Equivalent |相当于||
 ||||
 ||||
 ||||
