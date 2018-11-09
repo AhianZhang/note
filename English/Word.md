@@ -41,7 +41,7 @@
 |subtle|微妙||
 |occasional|微妙||
 |deterministic|偶然||
-|fathom||捉摸|
+|fathom|捉摸||
 |mechanism|机制||
 |effort|功夫||
 |grasp|把握||
@@ -68,17 +68,17 @@
 |predominant|优越的||
 |future|将来||
 |Equivalent |相当于||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|cooperatively |合作||
+|Explicit |明确的||
+|suspended |暂停||
+|indeterminate |不定||
+|resume |恢复||
+|mechanisms |机制||
+|Continuation |延续||
+|distros|发行版||
+|Satisfying|满意的||
+|grader|分级||
+|Incorporate |包括||
 ||||
 ||||
 ||||
