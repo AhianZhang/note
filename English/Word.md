@@ -39,8 +39,8 @@
 |advance|提前||
 |intermediate|中间||
 |subtle|微妙||
-|occasional|微妙||
-|deterministic|偶然||
+|occasional|偶然||
+|deterministic|确定性||
 |fathom|捉摸||
 |mechanism|机制||
 |effort|功夫||
@@ -51,7 +51,6 @@
 |counterintuitive|有悖常理||
 |overhead|高||
 |guarantee|保证||
-|periodically|定制||
 |inclusive|包括的||
 |precisely|恰恰||
 |straightforward|直截了当||
@@ -67,18 +66,17 @@
 |preeemptive|超群绝伦的||
 |predominant|优越的||
 |future|将来||
-|Equivalent |相当于||
+|equivalent |相当于||
 |cooperatively |合作||
-|Explicit |明确的||
+|explicit |明确的||
 |suspended |暂停||
 |indeterminate |不定||
 |resume |恢复||
-|mechanisms |机制||
-|Continuation |延续||
+|continuation |延续||
 |distros|发行版||
-|Satisfying|满意的||
+|satisfying|满意的||
 |grader|分级||
-|Incorporate |包括||
+|incorporate |包括||
 ||||
 ||||
 ||||
