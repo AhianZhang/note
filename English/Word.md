@@ -77,6 +77,48 @@
 |satisfying|满意的||
 |grader|分级||
 |incorporate |包括||
+|fraction|分数||
+|spam|垃圾邮件||
+|measure|测量||
+|supervised |监督||
+|contiguous|不连续的||
+| vulnerability|脆弱点||
+|omit|省略||
+|comprehensive |全面||
+|authentication|认证||
+|authorization|授权||
+|strive |努力||
+|bloat |膨胀||
+|curious|好奇||
+|nomenclature|命名法||
+|in any tier|在任何层||
+|anonymous|匿名||
+|sophisticated |复杂的||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 ||||
 ||||
 ||||
