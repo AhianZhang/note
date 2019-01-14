@@ -13,9 +13,3 @@
 
 
 [原文链接](https://blog.wikimedia.org/2018/04/20/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
-
-1.     m*n 的棋盘上有若干棋子,如果同一行或者同一列中还有别的棋子的话,则可以扔掉一个棋子,问最少棋盘上能剩多少棋子.
-2.  有expiration的字典.
-3. 读有timestamp的文件,给一个起始和终止的时间,返回其中所有的信息
-4.给一个图和root,判断这个图是不是一个树.-baidu 1point3acres
-5. 给一个只能读一个固定长度的块的函数, 设计一个可以读取任意指定长度的函数.
